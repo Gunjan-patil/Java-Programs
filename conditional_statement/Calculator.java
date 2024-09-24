@@ -27,13 +27,6 @@ public class Calculator {
      case 5:System.out.println(a%b);
           break;
      default:System.out.println("wrong");   
-     
-         
+     } 
      }
-    
-     
-     }
-     
-	
-
 }
